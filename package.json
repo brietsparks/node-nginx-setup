@@ -1,0 +1,13 @@
+{
+  "name": "node-nginx-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Briet Sparks",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
