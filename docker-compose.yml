@@ -26,6 +26,7 @@ services:
     networks:
       app-network:
         aliases:
+          # chenge this to your own fake domain name
           - example.com
 volumes:
   certbot-etc:
